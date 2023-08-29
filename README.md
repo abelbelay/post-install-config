@@ -41,7 +41,7 @@ This tutorial outlines the post-install configuration of the open-source help de
  </ul>
  <img src="https://user-images.githubusercontent.com/142059616/263863006-6f230c73-ea5c-4692-91b3-fdba0b02d052.png" height="35%" width="60%" alt="Disk Sanitization Steps"/>
   In the Permissions Tab, checkmark <b>All</b> boxes for the three tabs, "Tickets" "Tasks" "Knowledgebase"
-  <img src="https://i.imgur.com/iJGy3L6.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
   Next, we are going to create a department
